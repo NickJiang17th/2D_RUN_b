@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: a9b02fd242d447b4395f2a719fbba77b
+  productGUID: 76ab064d29ff25e43b6d022d86023a2e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: 2D Run a
+  productName: 2D Run b
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -634,14 +634,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: 2D Run a
+  metroPackageName: 2D Run b
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: 2D Run a
+  metroApplicationDescription: 2D Run b
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -710,10 +710,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 75a55054-1b33-4cae-869c-187c3bc71f19
+  cloudProjectId: 2d56888b-5ef8-4136-8fe1-acb74e0fdc9c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 2D Run a
+  projectName: 2D Run b
   organizationId: wechat_os_qy09qudi1ymf0jcyw006j8etq
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
